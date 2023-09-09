@@ -10,7 +10,7 @@ import (
 	"errors"
 	"net"
 
-	"github.com/icodeface/tls"
+	"github.com/tarimoe/tls"
 )
 
 type SocketLayer struct {
