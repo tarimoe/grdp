@@ -115,8 +115,6 @@ github.com/hashicorp/memberlist v0.1.3/go.mod h1:ajVTdAv/9Im8oMAAj5G31PhhMCZJV2p
 github.com/hashicorp/serf v0.8.2/go.mod h1:6hOLApaqBFA1NXqRQAsxw9QxuDEvNxSQRwA/JwenrHc=
 github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358 h1:hVXNJ57IHkOA8FBq80UG263MEBwNUMfS9c82J2QE5UQ=
 github.com/huin/asn1ber v0.0.0-20120622192748-af09f62e6358/go.mod h1:qBE210J2T9uLXRB3GNc73SvZACDEFAmDCOlDkV47zbY=
-github.com/icodeface/tls v0.0.0-20190904083142-17aec93c60e5 h1:ZcsPFW8UgACapqjcrBJx0PuyT4ppArO5VFn0vgnkvmc=
-github.com/icodeface/tls v0.0.0-20190904083142-17aec93c60e5/go.mod h1:VJNHW2GxCtQP/IQtXykBIPBV8maPJ/dHWirVTwm9GwY=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/jonboulle/clockwork v0.1.0/go.mod h1:Ii8DK3G1RaLaWxj9trq07+26W01tbo22gdxWY5EU2bo=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
@@ -197,8 +195,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.5.1 h1:nOGnQDM7FYENwehXlg/kFVnos3rEvtKTjRvOWSzb6H4=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
-github.com/tarimoe/tls v0.0.0-20190904083142-17aec93c60e5 h1:fi+jdJZAHM+TayeKWqzAgBZpg2FTi9HhcUskNb3eJ+U=
-github.com/tarimoe/tls v0.0.0-20190904083142-17aec93c60e5/go.mod h1:kmIDnQ0EkEY3Xr0DrMFMPC8YB17L6j82Gj2uO+kW3xs=
+github.com/tarimoe/tls v0.1.0 h1:DabyHI0y59tYP6GnjgVNQHzFnzY8VE9UUyvh69Wz4zI=
+github.com/tarimoe/tls v0.1.0/go.mod h1:kmIDnQ0EkEY3Xr0DrMFMPC8YB17L6j82Gj2uO+kW3xs=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
 github.com/tomatome/win v0.3.1 h1:jDUqhWwWNVAyr/hwzMWfgSIDXX9I4Opjy/XAlPAKh/Q=
 github.com/tomatome/win v0.3.1/go.mod h1:YY2OpEdJ5Z1gOya7w+W7Ziv/lRIiokxlQgj4i7QgbhY=
